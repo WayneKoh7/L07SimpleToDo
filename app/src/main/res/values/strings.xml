@@ -2,4 +2,14 @@
     <string name="app_name">L07 Simple To Do</string>
     <string name="add">Add</string>
     <string name="clear">Clear</string>
+    <string name="delete">Delete</string>
+
+
+    <string name = "spinner_option">Spinner Option</string>
+    <string-array name = "spinnerOptions">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+
+
 </resources>
